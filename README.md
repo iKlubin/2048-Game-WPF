@@ -1,6 +1,6 @@
 # 2048 Game WPF
 
-[]
+![screenshot](./img(2).png)
 
 ## Описание
 
